@@ -1,1 +1,2 @@
-# clientsbase version 00.01
+# clientsbase version 00.03
+# with partly validation and GUI emulator.
